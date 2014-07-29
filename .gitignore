@@ -1,6 +1,11 @@
-target/
-bin/
-.cache
 .project
 .classpath
 .settings/
+
+target/
+bin/
+.cache
+
+.gradle/
+build/
+

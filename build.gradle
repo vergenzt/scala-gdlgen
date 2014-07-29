@@ -1,0 +1,13 @@
+
+subprojects {
+  apply plugin: "scala"
+  apply plugin: "eclipse"
+
+  repositories {
+    mavenCentral()
+  }
+
+  dependencies {
+  }
+}
+
