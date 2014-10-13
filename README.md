@@ -1,11 +1,4 @@
-cardgamelib-scala
-=================
+scala-gdlgen
+============
 
-This is a WIP Scala library to make it easy to implement playing card games
-using a simple Scala DSL. I want to make it easy to encode the rules for a games
-such as Uno or Spades or things like that, and hopefully make it easier to make
-AI agents. :)
-
-See the [examples](scard-api/src/main/scala/com/timvergenz/scard/examples)
-package for what the DSL looks like.
-
+This is a WIP Scala framework to compile a Scala DSL into [Game Description Language](http://games.stanford.edu/games/gdl.html), allowing the expressiveness of Scala to simplify the process of creating a game, and hopefully increasing interest in [general game playing](http://www.ggp.org/).
